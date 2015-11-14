@@ -13,37 +13,25 @@ $(document).ready(function(){
     hideAll();
 
     $('.coverImages, img').click(function(){
+      hideAll();
           switch ($(this).attr("id")){
               case "dol" :
                   $('#allWeAre').show('fast');
+                  $('#dolText').slideToggle('fast');
                   break;
               case "wakingUp1" :
                   $('#goodLife').show('fast');
+                  $('#wup1Text').slideToggle('fast');
                   break;
               case "native" :
                   $('#countingStars').show('fast');
+                  $('#nativeText').slideToggle('fast');
                   break;
               case "wakingUp2" :
                   $('#everybodyLovesMe').show('fast');
+                  $('#wup2Text').slideToggle('fast');
                   break;
           };
-      };
-
-    $('.coverImages, img').click(function(){
-      switch ($(this).attr("id")){
-          case "dol" :
-              $('#dolText').slidetoggle();
-              break;
-          case "wakingUp1" :
-              $('#wup1Text').slidetoggle('slow');
-              break;
-          case "native" :
-              $('#nativeText').slidetoggle('slow');
-              break;
-          case "wakingUp2" :
-              $('#wup2Text').slidetoggle('slow');
-              break;
-          }
       });
 
 });
