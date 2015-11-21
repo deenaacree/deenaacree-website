@@ -1,0 +1,68 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+/* body styles */
+body {
+  font-family: "Questrial", "Calibri", "Arial", sans-serif;
+  background-color: #B4EBFF;
+  color: #000;
+  overflow: auto;
+}
+
+header {
+  background-color: #5A9BB2;
+  text-align: center;
+  position: fixed;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+}
+
+h1 {
+    font-family: "Crete Round", "Calibri", "Arial", sans-serif;
+    text-align: center;
+    font-size: 300%;
+    color: #;
+}
+
+.container {
+  padding-top: 100px;
+  border: 1px;
+}
+
+.description {
+  padding: 30px;
+  border: 1px;
+}
+
+#map {
+  height: 350px;
+}
+
+footer {
+  background-color: #FFC68A;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+}
+
+/* link styles */
+a:link, a:visited, a:active {
+    color: #9A90FF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #88FF77;
+}
+
+/* media queries */
+@media (max-width: 780px) {
+  body {
+    font-size: 90%;
+  }

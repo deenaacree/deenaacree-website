@@ -1,0 +1,116 @@
+Title: My Hometown
+
+
+Header: My Hometown: Melrose, Florida
+  Wiki Link: https://en.wikipedia.org/wiki/Melrose,_Florida
+  Website Link: http://melrosefl.com/
+
+Like my father before me, I was raised in a small town in North Central Florida called Melrose. It is a small but thriving community that is situated right in the middle of four counties: Alachua, Bradford, Clay, and Putnam. Although the small-town charm of the community is evident through the historic sections of town and the families that have had roots in the area for generations, the town is well-known in the area for its art scene. The small, unincorporated municipality boasts many art galleries,  weekly farmers markets, hosts three arts and crafts festivals annually, and has countless live music concerts, informal dances, and art shows throughout the year.
+
+Click on a pin in the map below to view a place that is special to the Melrose community and its description.
+
+Location 0: Melrose, Florida
+    Description: My hometown.
+    Website link: http://melrosefl.com/
+    Latitude & Longitude: 29.709685, -82.044094
+
+Location 1: Melrose Volunteer Fire Department
+    Description: Founded to serve the citizens of Melrose and the surrounding community, the Melrose Volunteer Fire Department serves the surrounding four counties: Alachua, Putnam, Clay, and Bradford.
+    Facebook link: https://www.facebook.com/melrosevfd24
+    Latitude & Longitude: 29.710066, -82.049588
+
+Location 2: Chiappini's
+    Description: A relic from the past, Chiappini's is a gas station and convenience store like no other. It was opened in 1935, and today continues to serve as a small-town gathering place.
+    Facebook link: https://www.facebook.com/chiappinis.melrose
+    Latitude & Longitude: 29.709842, -82.044363
+
+Location 3: Williamson's Food Store
+    Description: Williamson's Food Store was opened in 1972, and continues to serve as the main grocery store for Melrose residents today. It is a small store that is both family-owned and operated.
+    Website link: http://williamsonsfoodstore.com/
+    Latitude & Longitude: 29.710252, -82.043526
+
+Location 4: Melrose Elementary School
+    Description: Melrose Elementary School is the elementary school that children who live in the section of Melrose that is in Putnam County attend. It was originally opened as a K-12 school, but adapted with the community and is now a PreK-5 school.
+    Website link: http://putnammes.ss7.sharpschool.com/
+    Latitude & Longitude: 29.709125, -82.042602
+
+
+Location 5:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 6:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 7:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 8:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 9:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 10:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 11:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 12:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 13:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 14:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 15:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 16:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 17:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 18:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 19:
+    Description:
+    Website link:
+    Latitude & Longitude:
+
+Location 20:
+    Description:
+    Website link:
+    Latitude & Longitude:
