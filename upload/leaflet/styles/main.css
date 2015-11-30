@@ -35,10 +35,11 @@ h1 {
 .description {
   padding: 30px;
   border: 1px;
+  line-height: 1.5em;
 }
 
 #map {
-  height: 350px;
+  height: 500px;
 }
 
 footer {

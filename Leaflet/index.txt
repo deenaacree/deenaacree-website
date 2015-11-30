@@ -5,9 +5,11 @@ Header: My Hometown: Melrose, Florida
   Wiki Link: https://en.wikipedia.org/wiki/Melrose,_Florida
   Website Link: http://melrosefl.com/
 
-Like my father before me, I was raised in a small town in North Central Florida called Melrose. It is a small but thriving community that is situated right in the middle of four counties: Alachua, Bradford, Clay, and Putnam. Although the small-town charm of the community is evident through the historic sections of town and the families that have had roots in the area for generations, the town is well-known in the area for its art scene. The small, unincorporated municipality boasts many art galleries,  weekly farmers markets, hosts three arts and crafts festivals annually, and has countless live music concerts, informal dances, and art shows throughout the year.
+Like my father before me, I was raised in a small town in North Central Florida called Melrose. It is a small but thriving community that is situated right in the middle of four counties: Alachua, Bradford, Clay, and Putnam. Although the small-town charm of the community is evident through the historic sections of town and the families that have had roots in the area for generations, the town is well-known in the area for its art scene.
 
-Click on a pin in the map below to view a place that is special to the Melrose community and its description.
+The small, unincorporated municipality boasts many art galleries,  weekly farmers markets, hosts three arts and crafts festivals annually, and has countless live music concerts, informal dances, and art shows throughout the year. In addition, the community is the home of many locally owned restaurants, family-oriented businesses, and a large number of churches.
+
+Click on a pin in the map below to view a business or organization that is special to the Melrose community and its description.
 
 Location 0: Melrose, Florida
     Description: My hometown.
@@ -35,82 +37,97 @@ Location 4: Melrose Elementary School
     Latitude & Longitude: 29.709125, -82.042602
 
 
-Location 5:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 5: Melrose Public Library
+    Description: Completed in 1984, the Melrose Public Library was built as a community effort by the citizens of Melrose. It is one of only five libraries in Putnam County.
+    Website link: http://melroselibraryassociation.org/
+    Latitude & Longitude: 29.712488, -82.045675
 
-Location 6:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 6: Melrose Senior Community Center
+    Description: One of the newest additions to the town of Melrose, the Melrose Senior Community Center was opened in 2011 as a location for seniors and the elderly in the community to meet together. The center offers many things to the community, including coffee, ice cream, workshops, events, benefits screenings, and educational opportunities.
+    Website link: http://iwionline.org/portfolio/the-melrose-senior-community-center/
+    Latitude & Longitude: 29.709350, -82.047204
 
-Location 7:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 7: Artisan's Way
+    Description: Artisan's Way, one of many art galleries in Melrose, was founded to make the arts accessible to the community. It is run completely by volunteers and serves as a place for artists of all disciplines to come together.
+    Website link: http://artisansway.org/
+    Latitude & Longitude: 29.710017, -82.051366
 
-Location 8:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 8: Melrose Youth Sports Association
+    Description: The Melrose Youth Sports Association (MYSA) is a non-profit organization in Melrose that allows children in the surrounding community a chance to play recreational sports. The sports offered include softball, baseball, basketball, soccer, t-ball, and flag football.
+    Website link: http://www.melroseyouthsports.com/
+    Latitude & Longitude: 29.708507, -82.040109
 
-Location 9:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 9: Gallery 26
+    Description: Gallery 26, another of the art galleries located in Melrose, exists to give members of the community a venue to create and exhibit works of art, in addition to meeting in a friendly and inspiring atmosphere.
+    Website link: http://gallery26melrose.com/home.html
+    Latitude & Longitude: 29.709120, -82.047747
 
-Location 10:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 10: Melrose Landing Airport
+    Description: A little-known secret, the Melrose Landing Airport is a privately owned landing strip for community members only. It is located in a private community (Melrose Landing), where airport lots have direct access to the airstrip—pilots who live in those lots can land and taxi straight to their own front door.
+    Website link: http://www.melroselanding.org/
+    Latitude & Longitude: 29.661636, -81.957545
 
-Location 11:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 11: Melrose Dream Center
+    Description: The Melrose Dream Center is a Christian Youth Center dedicated to improving the lives of the youth that live in the surrounding community. Located on the same property as Gallery 26 and various other businesses, it is one of the only youth-oriented services in the area.
+    Website link: http://www.melrosedreamcenter.org/
+    Latitude & Longitude: 29.709193, -82.047688
 
-Location 12:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 12: Melrose Bay Art Gallery
+    Description: The Melrose Bay Art Gallery exhibits the work of many of the more popular artists in the area surrounding Melrose. Exhibitions at this gallery are featured for around six weeks at a time.
+    Website link: http://melrosebayartgallery.com/home.html
+    Latitude & Longitude: 29.709461, -82.049776
 
-Location 13:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 13: Trinity Episcopal Church
+    Description: One of the oldest churches in the area, Trinity Episcopal Church was founded in 1881. It has gained much of its reputation as a big pillar in the community because of the multitude of events that are hosted there, including the local Boy Scouts and Cub Scouts troops and the Santa Fe Audubon Society.
+    Website link: http://www.trinitymelrosefl.org/
+    Latitude & Longitude: 29.709840, -82.048896
 
-Location 14:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 14: Melrose Cemetery
+    Description: Also known as Eliam Cemetery, the Melrose Cemetery is the largest cemetery in the surrounding community. On Memorial Day in 2007, a Veteran's Memorial was created to recognize the veterans who are laid to rest there. At the time, the cemetery housed a total of 347 veterans from the Civil War, the Spanish-American War, World Wars I and II and the Korean War.
+    Website link: http://eliambaptist.org/cemetery
+    Latitude & Longitude: 29.706358, -82.045131
 
-Location 15:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 15: Blue Water Bay
+    Description: A local favorite that is famous in more than just the local area, Blue Water bay is the most upscale dining experience in Melrose. "The Bay" offers a elegant but casual dining environment, with both a dining room and a lounge. The restaurant is built using rich wood paneling and is tastefully decorated with fishing artifacts and gorgeous stained glass made by local artists.
+    Website link: http://thebluewaterbay.com/
+    Latitude & Longitude: 29.709498, -82.045701
 
-Location 16:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 16: Eliam Baptist Church
+    Description: Founded in 1859, Eliam Baptist Church is one of the oldest churches in the community. It was originally located at Melrose Cemetery (formerly known as Eliam Cemetery), but has been relocated twice after the church burned down at both the original location and the second location on Wynwood Avenue.
+    Website link: http://www.eliambaptist.org/
+    Latitude & Longitude: 29.710716, -82.050642
 
-Location 17:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 17: Melrose Bay Park
+    Description: Another little-known Melrose community secret, Melrose Bay Park is a small, quiet park located on the shore of Melrose Bay (which is a subset of Santa Fe Lake). The park offers sandy shores, picnic tables, and quiet seclusion for both families and individuals to enjoy the beautiful nature offered on the gorgeous lake.
+    Website link: http://melrosefl.com/About.html#MBPark
+    Latitude & Longitude: 29.712884, -82.053014
 
-Location 18:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 18: Gainesville Eye Physicians
+    Description: An extremely well kept secret is that Gainesville Eye Physicians shares the business' building with a historically accurate and preserved general store. The general store is not open to the public, and can in fact only be accessed on special occasions.
+    Website link: http://www.gainesvilleeyedocs.com/
+    Latitude & Longitude: 29.709459, -82.049619
 
-Location 19:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 19: Lake Area Animal Hospital
+    Description: The Lake Area Animal Hospital provides coverage for both small and large animals, as well as grooming and boarding services. Health procedures that the hospital performs includes blood transfusions, dental care, X-rays, microchipping, vaccinations, specialized surgeries, and hospice/euthanasia services.
+    Website link: http://www.lakeareavets.com/
+    Latitude & Longitude: 29.723662, -82.046789
 
-Location 20:
-    Description:
-    Website link:
-    Latitude & Longitude:
+Location 20: Fryer's Chicken
+    Description: A favorite for locals in and around the Melrose area, Fryer's Chicken is a fast-food style restaurant that serves almost exclusively fried chicken in a variety of forms. The diner-like experience is popular among new and long-time visitors alike.
+    Website link: http://www.fryerschicken.com/
+    Latitude & Longitude: 29.709486, -82.045046
+
+Location 21: Betty's Pizza
+    Description: Established in 1987, Betty's Pizza is the hometown Italian food. The food is all handmade using fresh ingredients, and the menu includes a few local favorites, like the unique and unusual pizza selections.
+    Website link: http://www.bettys-pizza.com/
+    Latitude & Longitude: 29.712117, -82.044552
+
+Location 22: Melrose Cafe
+    Description: The only non-chain local restaurant that serves breakfast, the Melrose Cafe is a must-visit. The cafe serves both breakfast and lunch, and has been a major feature in the community for 30 years.
+    Website link: http://www.melrosecafefl.com/
+    Latitude & Longitude: 29.716804, -82.044452
+
+  Location 23: Gator Bait Sports Bar and Grill
+      Description: A newcomer to the Melrose restaurant scene, Gator Bait Sports Bar and Grill ("Gator Bait") is a place for the entire family to enjoy great food in great company. Although the business is named a "bar," it is a family-friendly environment that hosts community events for sports games of all kinds.
+      Website link: https://www.facebook.com/Gator-Bait-Sports-Bar-and-Grill-419826154716765/
+      Latitude & Longitude: 29.709940, -82.047368
