@@ -7,16 +7,18 @@ Headline: Melrose, Florida
   Navigation List:
     Home
     About
-    History
+      History
+      Locations
     Events
     Businesses and Organizations
-       Business Association
+       Information
+        Business Association
+        Government Services
        Local Businesses
         Restaurants
         Galleries
         Shopping
-       Government Services
-       Other Organizations
+      Organizations
         Churches
     Nearby
     Contact
