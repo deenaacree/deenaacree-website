@@ -1,26 +1,41 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset = "utf-8">
-  <title>Melrose, FL</title>
-</head>
-
-<body>
-
-  <header>
-    <h1>Melrose, Florida<h1>
-  </header>
+Page Title: Melrose, Florida
 
 
 
 
-</body>
+Headline: Melrose, Florida
+  Navigation List:
+    Home
+    About
+    History
+    Events
+    Businesses and Organizations
+       Business Association
+       Local Businesses
+        Restaurants
+        Galleries
+        Shopping
+       Government Services
+       Other Organizations
+        Churches
+    Nearby
+    Contact
 
-</html>
 
 
-<!-- Write your comments here -->
-<!-- Write your comments here -->
-<!-- Write your comments here -->
-<!-- Write your comments here -->
+
+
+
+
+
+
+
+Footer:
+
+(c) 2015 Deena Acree. All Rights Reserved.
+
+  Side Navigation List:
+    Home
+    About
+    History
+    Contact
