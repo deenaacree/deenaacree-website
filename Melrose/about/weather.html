@@ -5,22 +5,21 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="A website about the town of Melrose, Florida">
+    <meta name="author" content="Deena Acree">
     <title>Melrose, Florida</title>
     <!--styles-->
-      <link href="../styles/bootstrap.min.css" rel="stylesheet">
-      <link href="../styles/font-awesome.min.css" rel="stylesheet">
-      <link href="../styles/prettyPhoto.css" rel="stylesheet">
-      <link href="../styles/animate.css" rel="stylesheet">
-      <link href="../styles/main.css" rel="stylesheet">
-      <link href="../styles/css.css" rel="stylesheet">
+      <link href="styles/bootstrap.min.css" rel="stylesheet">
+      <link href="styles/font-awesome.min.css" rel="stylesheet">
+      <link href="styles/prettyPhoto.css" rel="stylesheet">
+      <link href="styles/animate.css" rel="stylesheet">
+      <link href="styles/main.css" rel="stylesheet">
+      <link href="styles/css.css" rel="stylesheet">
     <!--end styles-->
 </head>
 
 
 <body>
-
 
   <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
       <div class="container">
@@ -31,94 +30,166 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="../index.html"><img src="../images/melrose.png" alt="Melrose, Florida"></a>
+              <a class="navbar-brand" href="index.html"><img src="images/melrose.png" alt="Melrose, Florida"></a>
           </div>
           <div class="collapse navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
-                  <li class="active"><a href="../index.html">Home</a></li>
+                  <li class="active"><a href="index.html">Home</a></li>
                   <li class="dropdown">
-                      <a href="#" class="dropdown-toggle active" data-toggle="dropdown">About <i class="icon-angle-down"></i></a>
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <i class="icon-angle-down"></i></a>
                       <ul class="dropdown-menu">
-                          <li><a href="history.html">History</a></li>
-                          <li><a href="locations.html">Locations</a></li>
-                          <li><a href="mbac.html">Melrose Business Association <br>(links to an external site)</a></li>
-                          <li><a href="govt.html">Government Services</a></li>
-                          <li><a href="county.html">County Websites</a></li>
-                          <li><a href="more.html">More Information</a></li>
+                          <li><a href="about/history.html">History</a></li>
+                          <li><a href="about/mbac.html">Melrose Business Association <br>(links to an external site)</a></li>
+                          <li><a href="about/govt.html">County Websites</a></li>
+                          <li><a href="about/index.html">More</a></li>
                       </ul>
                   </li>
-                  <li><a href="../events/index.html">Events</a></li>
+                  <li><a href="locations.html">Locations</a></li>
+                  <li><a href="events.html">Events</a></li>
                   <li class="dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Businesses and Services <i class="icon-angle-down"></i></a>
                       <ul class="dropdown-menu">
-                          <li><p>Local Businesses</p></li>
-                          <li><a href="local/restaurants.html">Restaurants</a></li>
-                          <li><a href="local/galleries.html">Galleries</a></li>
-                          <li><a href="local/shopping.html">Shopping</a></li>
-                          <li><a href="local/other.html">Other Businesses</a></li>
+                          <li><p><a href="businesses/local/index.html">Local Businesses</a></p></li>
+                          <li><a href="businesses/local/restaurants.html">Restaurants</a></li>
+                          <li><a href="businesses/local/galleries.html">Galleries</a></li>
+                          <li><a href="businesses/local/shopping.html">Shopping</a></li>
                           <li class="divider"></li>
-                          <li><p>Local Services</p></li>
-                          <li><a href="local/services.html">Public Services</a></li>
-                          <li><a href="local/services.html">Other Services</a></li>
+                          <li><p><a href="businesses/services.html">Local Services</a></p></li>
                           <li class="divider"></li>
-                          <li><p>Organizations</p></li>
-                          <li><a href="organizations/churches.html">Churches</a></li>
-                          <li><a href="organizations/other.html">Other Organizations</a></li>
+                          <li><p><a href="businesses/organizations.html">Organizations</a></p></li>
+                          <li class="divider"></li>
+                          <li><p><a href="businesses/index.html">All Businesses</a></p></li>
                       </ul>
                   </li>
-                  <li><a href="../nearby/index.html">Nearby</a></li>
-                  <li><a href="../contact.html">Contact</a></li>
+                  <li><a href="nearby.html">Nearby</a></li>
+                  <li><a href="contact.html">Contact</a></li>
               </ul>
           </div>
       </div>
     </header>
 
-
   <section id="title" class="emerald">
       <div class="container">
           <div class="row">
               <div class="col-sm-6">
-                  <h1>Weather in Melrose, Florida</h1>
+                  <h1>About Melrose, Florida</h1>
                   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
               </div>
               <div class="col-sm-6">
                   <ul class="breadcrumb pull-right">
-                      <li><a href="../../index.html">Home</a></li>
-                      <li><a href="index.html">About</a></li>
-                      <li class="active">Weather</li>
+                      <li><a href="../index.html">Home</a></li>
+                      <li class="active">About</li>
                   </ul>
               </div>
           </div>
       </div>
   </section><!--/#title-->
 
-<div id="weather-chart" style="width:100%; height:500px;"></div>
+  <section id="services">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-sm-6">
+                  <div class="media">
+                      <div class="pull-left">
+                        <img src="images/tree-logo-small-2.png" alt="Tree Photo">
+                      </div>
+                      <div class="media-body">
+                          <h3 class="media-heading">History</h3>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                      </div>
+                  </div>
+              </div><!--/.col-md-4-->
+              <div class="col-md-4 col-sm-6">
+                  <div class="media">
+                      <div class="pull-left">
+                        <img src="images/tree-logo-small-2.png" alt="Tree Photo">
+                      </div>
+                      <div class="media-body">
+                          <h3 class="media-heading">Locations</h3>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                      </div>
+                  </div>
+              </div><!--/.col-md-4-->
+              <div class="col-md-4 col-sm-6">
+                  <div class="media">
+                      <div class="pull-left">
+                        <img src="images/tree-logo-small-2.png" alt="Tree Photo">
+                      </div>
+                      <div class="media-body">
+                          <h3 class="media-heading">Melrose Business Association</h3>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                      </div>
+                  </div>
+              </div><!--/.col-md-4-->
+          </div><!--/.row-->
+          <div class="gap"></div>
+          <div class="row">
+              <div class="col-md-4 col-sm-6">
+                  <div class="media">
+                      <div class="pull-left">
+                        <blockquote>
+                        </blockquote>
+                      </div>
+                      <div class="media-body">
+                          <h3 class="media-heading">County Websites</h3>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                      </div>
+                  </div>
+              </div><!--/.col-md-4-->
+              <div class="col-md-4 col-sm-6">
+                  <div class="media">
+                      <div class="pull-left">
+                        <blockquote>
+                        </blockquote>
+                      </div>
+                      <div class="media-body">
+                          <h3 class="media-heading">Local Weather</h3>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                      </div>
+                  </div>
+              </div><!--/.col-md-4-->
+              <div class="col-md-4 col-sm-6">
+                  <div class="media">
+                      <div class="pull-left">
+                        <blockquote>
+                        </blockquote>
+                      </div>
+                      <div class="media-body">
+                          <h3 class="media-heading">More Information</h3>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                      </div>
+                  </div>
+              </div><!--/.col-md-4-->
+          </div><!--/.row-->
+          <hr>
+      </div>
+  </section><!--/#services-->
 
 
-    <footer id="footer" class="midnight-blue">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://deenaacree.com/" title="Deena Acree">Deena Acree</a>. All Rights Reserved.
-                </div>
-                <div class="col-sm-6  botnav">
-                    <ul class="pull-right">
-                        <li><a href="../../index.html">Home</a></li>
-                        <li><a href="index.html">About</a></li>
-                        <li><a href="../../businesses/index.html">Businesses</a></li>
-                        <li><a href="../../contact.html">Contact</a></li>
-                        <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer><!--/#footer-->
+  <footer id="footer" class="midnight-blue">
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-6">
+                  &copy; 2015 <a target="_blank" href="http://deenaacree.com/" title="Deena Acree">Deena Acree</a>. All Rights Reserved.
+              </div>
+              <div class="col-sm-6  botnav">
+                  <ul class="pull-right">
+                      <li><a href="index.html">Home</a></li>
+                      <li><a href="about/index.html">About</a></li>
+                      <li><a href="businesses/index.html">Businesses</a></li>
+                      <li><a href="contact.html">Contact</a></li>
+                      <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </footer><!--/#footer-->
 
-    <script src="../scripts/jquery.js"></script>
-    <script src="../scripts/bootstrap.min.js"></script>
-    <script src="../scripts/jquery.prettyPhoto.js"></script>
-    <script src="../scripts/main.js"></script>
-    <script src="http://code.highcharts.com/highcharts.js"></script>
+
+  <script src="scripts/jquery.js"></script>
+  <script src="scripts/bootstrap.min.js"></script>
+  <script src="scripts/jquery.prettyPhoto.js"></script>
+  <script src="scripts/main.js"></script>
 
 
 </body>
